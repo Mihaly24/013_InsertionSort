@@ -11,7 +11,7 @@ void input() {
 		if (n <= 9)
 			break;
 		else {
-			cout << "Array dapat mempunyai maksimal 20 elemen. \n";
+			cout << "Array dapat mempunyai maksimal 9 elemen. \n";
 		}
 
 	}
